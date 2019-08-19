@@ -16,7 +16,6 @@ let ranPrice= Math.floor(Math.random()*100);
   itemPrice:ranPrice
 };
 
-items.pepito
 
 cart.push(items);
 return `${items.itemName} has been added to your cart.`
