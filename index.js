@@ -67,6 +67,7 @@ function removeFromCart(item) {
 
 
 function placeOrder(cardNumber) {
+  if(cardNumber)
   // write your code here
 }
 
